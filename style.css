@@ -1,0 +1,17 @@
+#result_object_name#result_object_accuracy{	color: yellow;}
+body{
+    background-color: white;
+    
+}
+#camera
+{
+    width:350px;
+    height: 300px;
+    border:1px solid grey;
+}
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
